@@ -15,6 +15,7 @@ namespace MvcMovie.Controllers
             _context = context;    
         }
 
+
         // GET: Movies
         public IActionResult Index()
         {
